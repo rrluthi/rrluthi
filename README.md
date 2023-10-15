@@ -28,8 +28,8 @@ CaseWorx: Technical Co-Founder - Built & maintained the online education platfor
 Evite: Senior Web Developer - Spearheaded the development of a custom web-based virtual party platform, launched during the pandemic.<br>
 
 ### 📫 Connect with me:
-LinkedIn: [YourLinkedInProfile]<br>
-Portfolio: [YourPortfolioWebsite]<br>
+LinkedIn: [Profile](https://www.linkedin.com/in/rudyluthi/)<br>
+Portfolio: [Portfolio](https://designs-machinations.com)<br>
 
 ##### 👩‍💻 Always eager to collaborate on projects pushing the boundaries of real-time web communication. If you have ideas or need expertise in this domain, let's connect!
 
