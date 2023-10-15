@@ -23,9 +23,9 @@ Others: Svelte, Django, ffmpeg<br>
 - **Evite Virtual Party:** A custom video chat virtual party platform supporting up to 40 concurrent guests, built with React, Mobx, Python and Vonage real-time video API's.<br>
 
 ### 💼 Work & Experience:
-SuperLeague: Lead Developer - Built and maintained a high-performance video conferencing tool used by over 100k users.<br>
-CaseWorx: Senior Web Developer - Spearheaded the development of a custom web-based media player, enhancing user experience by 70%.<br>
-Evite: Senior Web Developer - Spearheaded the development of a custom web-based media player, enhancing user experience by 70%.<br>
+SuperLeague: Principal Software Engineer - Architected and built a distributed production platform, built an ad-server for in-game media, and led multiple teams.<br>
+CaseWorx: Technical Co-Founder - Built & maintained the online education platform for seven years, supporting over 30 universities using the product.<br>
+Evite: Senior Web Developer - Spearheaded the development of a custom web-based virtual party platform, launched during the pandemic.<br>
 
 ### 📫 Connect with me:
 LinkedIn: [YourLinkedInProfile]<br>
